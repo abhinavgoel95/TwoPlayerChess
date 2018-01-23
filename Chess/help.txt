@@ -1,0 +1,14 @@
+			         HELP
+When asked for a move, please enter a move in the following fasion: from-to. 
+This means, that if you want to move from a1 to a2 then you should write a1-a2.
+If you get the warning: Illegal move it means that you entered a move that's    either impossible with the selected piece or you't trying to take one of your   own pieces or you'r trying to move out of the board.
+
+                             Other Commands
+Typing reset will reset the game back to starting position. 
+Typing display will redraw the board. 
+Typing exit or quit will exit the game.
+Typing help will bring up this help menu again.
+Typing save will save the game.
+Typing load will load a previously saved game.
+Typing rules will display game rules.
+
